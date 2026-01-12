@@ -1,0 +1,5 @@
+# Ignorar carpeta de modulos de Node JS
+/node_modules
+
+# Ignorar archivo de configuracion con credenciales
+/.env
